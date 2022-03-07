@@ -2,6 +2,7 @@
 
 ## Overview
 
+`The content of this project is published on HackMD and shared with only my future recruiters via a private hyperlink on my resume for job application purpose. This is to not disclose my progress and results in this project to other participants as I will also join in this competition again in 2023 with more insights.`
 
 ## Purpose
 
