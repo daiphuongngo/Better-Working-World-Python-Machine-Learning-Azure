@@ -15,3 +15,5 @@ Using Python, Machine Learning, Azure in 3 challenges for 3 months to help locat
 - Machine Learning
 
 - Azure Studio
+
+- Azure Machine Learning Studio
